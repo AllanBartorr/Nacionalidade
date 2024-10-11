@@ -1,2 +1,0 @@
-# Nacionalidade
-Verificar nacionalidade
